@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Points
+  - Spikes
+  - Enemies
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Player
+  - Platforms
+  - Traps
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4282072725
+    locked: 0
+  - name: Pickups
+    uniqueID: 1316058891
+    locked: 0
+  - name: Player
+    uniqueID: 904313141
+    locked: 0
+  - name: Platforms
+    uniqueID: 349449373
+    locked: 0
+  - name: Foreground
+    uniqueID: 3344009855
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
